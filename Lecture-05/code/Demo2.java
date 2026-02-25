@@ -1,3 +1,4 @@
+package code;
 public class Demo2 {
     public static void main(String[] args) {
         byte b = 42;

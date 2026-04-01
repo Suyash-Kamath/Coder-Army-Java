@@ -49,3 +49,36 @@ class BankAccount{
 
 
 }
+
+class Student{
+  private   String name;
+  private   int rollNumber;
+  private   int age;
+  private   String college;
+
+  Student(String name, int rollNumber,int age , String college){
+    this.name =name;
+    this.age=age;
+    this.rollNumber=rollNumber;
+    this.college=college ;
+
+
+  }
+
+  public String getName(){
+    return  name;
+  }
+
+  public void setName(String name){
+    this.name = name ;
+  }
+
+  public String getCollege(){
+    return college;
+  }
+
+  public void setCollege(String college){
+    // Validation -> College should be real
+    this.college = college;
+  }
+}

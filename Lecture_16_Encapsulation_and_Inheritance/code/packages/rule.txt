@@ -1,0 +1,20 @@
+Rules for each package part:
+
+  - Must start with letter, _, or $
+  - After that: letters, digits, _, $
+  - Cannot use -, spaces, etc.
+
+  Packages should be named in all lower case. This is the standard convention in programming languages like Java, Go, and in many file system structures. 
+
+Why Use Small Case?
+Convention & Readability: It distinguishes packages from class names (which are CamelCase) and helps improve code readability.
+Avoid Collisions: Using lowercase prevents conflicts with class or interface names.
+Portability: Using uppercase can cause compilation issues on case-sensitive filesystems, such as when moving code from Windows to Linux, or in Android development.
+Brevity: Package names should be short, concise, and evocative. 
+
+Key Guidelines:
+Java: All-lower-case names, often starting with a top-level domain (e.g., com.company.project).
+Go: Short, lower-case, single-word names are preferred (e.g., net/http).
+Exceptions: Sometimes _test is added to a package name, but the base name remains lowercase. 
+
+Using upper case or CamelCase is generally discouraged, as it can cause issues with naming conventions and compatibility. 

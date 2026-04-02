@@ -2,6 +2,7 @@
 // Encapsulatioon says agar aapko unrestricted access hatani hai toh kisi bhi field ke aage private lagaa do and uske methods hai jiske through use access kiya jaa sakta hai unko public banaa do 
 // Hame user ko balance ko access karne se nahi rokna tha , hame directly usko access karne se rokna tha 
 // This is the funda of Encapsulation
+package code.encapsulation;
 
 public class Encapsulation {
     public static void main(String []args){
@@ -64,7 +65,12 @@ class Student{
 
 
   }
-
+public int getRoll(){
+  return rollNumber;
+}
+public int getAge(){
+  return age;
+}
   public String getName(){
     return  name;
   }

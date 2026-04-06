@@ -1,3 +1,5 @@
+package code;
+
 public class Demo {
     public static void main(String[] args) { 
         // Funtions in Java

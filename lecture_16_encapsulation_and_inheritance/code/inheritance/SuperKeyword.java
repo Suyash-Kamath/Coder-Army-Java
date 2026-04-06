@@ -1,3 +1,5 @@
+package code.inheritance;
+
 public class SuperKeyword {
     public static void main(String[] args) {
         // EngineeringStudent es1 = new EngineeringStudent();

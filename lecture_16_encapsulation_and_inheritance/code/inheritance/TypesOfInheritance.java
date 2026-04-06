@@ -6,6 +6,7 @@ hierarchial inheritance
 multiple inheritance (not supported by java through class but supported by interfaces)
 
 */
+package code.inheritance;
 
 public class TypesOfInheritance {
 

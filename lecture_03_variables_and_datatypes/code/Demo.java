@@ -1,4 +1,5 @@
 package code;
+
 public class Demo {
     public static void main(String[] args) {
         //Integers --> byte, short, int, long

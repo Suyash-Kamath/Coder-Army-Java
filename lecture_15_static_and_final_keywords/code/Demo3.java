@@ -1,5 +1,5 @@
 // Use of String [] args
-
+package code;
 public class Demo3 {
     public static void main(String[] args) {
         System.out.println("Number of arguments "+ args.length);

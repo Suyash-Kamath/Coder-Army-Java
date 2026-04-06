@@ -1,3 +1,4 @@
+package code;
 public class Demo4 {
 
     static String name = "Aditya"; // global scope

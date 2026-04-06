@@ -1,3 +1,5 @@
+package code;
+
 public class Demo2 {
     public static void main(String[] args) {
         // Multi dimensional arrays:

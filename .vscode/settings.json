@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths":[
+  "lecture_01_introduction",
+  "lecture_02_first_java_program",
+  "lecture_03_variables_and_datatypes",
+  "lecture_04_how_numbers_are_stored",
+  "lecture_05_type_conversion_and_casting",
+  "lecture_06_operators",
+  "lecture_07_conditionals",
+  "lecture_08_loops_and_jump_statements",
+  "lecture_09_introduction_to_arrays",
+  "lecture_10_how_arrays_work",
+  "lecture_11_functions",
+  "lecture_12_introduction_to_oops",
+  "lecture_13_constructors",
+  "lecture_14_objects_deep_dive",
+  "lecture_15_static_and_final_keywords",
+  "lecture_16_encapsulation_and_inheritance"
+    ]
+}

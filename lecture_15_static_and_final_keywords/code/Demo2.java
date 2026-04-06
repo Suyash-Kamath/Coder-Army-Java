@@ -1,3 +1,4 @@
+package code;
 public class Demo2 {
     public static void main(String[] args) {
         Random r1 = new Random();

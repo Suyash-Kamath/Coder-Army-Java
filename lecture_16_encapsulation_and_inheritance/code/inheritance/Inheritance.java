@@ -1,7 +1,7 @@
 /*
 Inheritance -> Supports polymorphism and code resuability
 */
-
+package code.inheritance;
 
 public class Inheritance {
 

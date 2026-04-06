@@ -1,5 +1,5 @@
 // Call by reference --> There is no call by reference in java. 
-
+package code;
 public class Demo2 {
     public static void main(String[] args) {
         Random r1 = new Random(4, 5);

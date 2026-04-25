@@ -29,3 +29,8 @@ public final class ConceptualViewOfIntegerClass {
         return Integer.hashCode(value);
     }
 }
+
+/*
+
+Once you understand Integer Class, you can easily conceptualize other wrapper classes like Double, Flotat, etc. Double has method doubleValue() like Integer has intValue & so on.
+*/

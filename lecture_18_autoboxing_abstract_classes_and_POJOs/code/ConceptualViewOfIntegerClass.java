@@ -12,7 +12,7 @@ public final class ConceptualViewOfIntegerClass {
     }
 
     public static ConceptualViewOfIntegerClass valueOf(int x) {
-        return new ConceptualViewOfIntegerClass(x); // but valueOf has concept of caching 
+        return new ConceptualViewOfIntegerClass(x); // but valueOf has concept of caching , Real Integer.valueOf() uses caching for small numbers (-128 to 127).
     }
 
     @Override

@@ -12,7 +12,7 @@ public final class ConceptualViewOfIntegerClass {
     }
 
     public static ConceptualViewOfIntegerClass valueOf(int x) {
-        return new ConceptualViewOfIntegerClass(x);
+        return new ConceptualViewOfIntegerClass(x); // but valueOf has concept of caching 
     }
 
     @Override

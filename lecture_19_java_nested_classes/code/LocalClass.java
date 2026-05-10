@@ -32,4 +32,4 @@ class Outer{
 
 // Where can you use this Local Class => Constructor , Method , If , Loop, Static Block
 
-// effectiev final variable rule 
+// effective final variable rule 
